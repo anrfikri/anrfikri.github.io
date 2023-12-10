@@ -25,7 +25,7 @@ h6 {
 }
 
 .hcert {
-  height: 190px;
+  height: 200px;
 }
 
 a {
@@ -201,6 +201,7 @@ a:hover {
   background-color: #fff;
   margin-bottom: 3rem;
   z-index: 2;
+  border-radius: 0.3rem;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -713,7 +714,7 @@ a:hover {
 .service-box {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
-  border-radius: 1rem;
+  border-radius: 0.3rem;
   margin-bottom: 3rem;
 }
 
@@ -779,6 +780,7 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  border-radius: 0.3rem;
 }
 
 .work-box:hover img {
@@ -788,8 +790,9 @@ a:hover {
 
 .work-img {
   display: block;
-  height: 150px;
+  height: 180px;
   overflow: hidden;
+  border-radius: 0.3rem;
 }
 
 .work-img img {
